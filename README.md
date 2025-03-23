@@ -2,7 +2,7 @@
 convert image to cartoon using OpenCV
 
 ## Best Image
-'cartoon_best' is the best one of image converted an image to cartoon.
+'cartoon_best' is the best one of image converted an image to cartoon.\n
 The colors in the photo are vivid, so I think the conversion went well.
 
 ## Worse Image
