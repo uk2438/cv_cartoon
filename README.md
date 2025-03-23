@@ -10,6 +10,6 @@ The colors in the photo are vivid, so I think the conversion went well.
 There are a lot of blurry parts, so I think it couldn't find the outline properly.
 
 ## Limitations of my algorithm
-first, the more blurry the photo is, the harder it is to find the outlines, so it doesn't look like a cartoon.
-second, if the object and background in the image are similar colors, it is difficult to convert.
+First, the more blurry the photo is, the harder it is to find the outlines, so it doesn't look like a cartoon.
+Second, if the object and background in the image are similar colors, it is difficult to convert.
 Third, images with many gradients cannot be converted accurately.
